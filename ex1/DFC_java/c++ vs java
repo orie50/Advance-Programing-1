@@ -1,0 +1,5 @@
+java	leaves	c++
+
+0.103	131072	0.033	sec	// The first time we notice the difference in performence.
+
+over 1 minute (4 RAM machine)	67108864	18.3	sec	// After one minute (for java)
